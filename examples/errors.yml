@@ -1,0 +1,11 @@
+app: xxx
+version: 1.0
+errors:
+- key: db_error
+  code: 10010
+  msg: db error
+  desc: check db connection
+- key: invalid_param
+  code: 10011
+  msg:  invalid param
+  desc: check db connection
