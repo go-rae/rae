@@ -17,6 +17,6 @@ restful api error
       msg: your massage
       desc: your error description
   ```
- - [ ] ctrip apoll support for manage errors yml file.
+ - [ ] ctrip apollo support for manage errors yml file.
 
  
